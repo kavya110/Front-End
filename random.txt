@@ -1,0 +1,74 @@
+<div class="post-wrapper">
+    <div class="card">
+      <img src="images\Charminar.jpg" alt="Charminar" class="card-img-top">
+      <div class="card-body">
+<h5 class="card-title"><a href="#">Hyderabad</a></h5>
+<p class="card-text">Hyderabad is the capital of Telangana in Southern India, located on the banks of the Musi River and on the Deccan...<a class="anchor" href="#">Read more</a></p>
+  </div>
+</div>
+  <div class="card">
+    <img src="images\mumbai.jpg" alt="Mumbai" class="card-img-top">
+    <div class="card-body">
+        <h5 class="card-title"><a href="#">Mumbai</a></h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <!--  <p class="card-text">Mumbai, a cosmopolitan metropolis, earlier known as Bombay, is the largest city in India and the capital...<a class="anchor" href="#">Read more</a></p>-->
+    </div>
+  </div>
+  <div class="card">
+    <img src="images\delhi.jpg" alt="Delhi" class="card-img-top">
+    <div class="card-body">
+    <h5 class="card-title"><a href="#">Delhi</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+</div>
+  <div class="card">
+    <img src="images\bangalore.jpg" alt="Bangalore" class="card-img-top">
+    <div class="card-body">
+  <h5 class="card-title"><a href="#">Bangalore</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+  <div class="card">
+    <img src="images\ahmedabad.jpg" alt="Ahmedabad" class="card-img-top">
+    <div class="card-body">
+   <h5 class="card-title"><a href="#">Ahmedabad</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+  <div class="card">
+    <img src="images\chennai.jpg" alt="Chennai" class="card-img-top">
+    <div class="card-body">
+  <h5 class="card-title"><a href="#">Chennai</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+  <div class="card">
+    <img src="images\kolkata.jpg" alt="Kolkata" class="card-img-top">
+    <div class="card-body">
+  <h5 class="card-title"><a href="#">Kolkata</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+  <div class="card">
+    <img src="images\jaipur.jpg" alt="Jaipur" class="card-img-top">
+    <div class="card-body">
+  <h5 class="card-title"><a href="#">Jaipur</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+  <div class="card">
+    <img src="images\pune.jpg" alt="Pune" class="card-img-top">
+    <div class="card-body">
+  <h5 class="card-title"><a href="#">Pune</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+  <div class="card">
+    <img src="images\surat.jpg" alt="Surat" class="card-img-top">
+    <div class="card-body">
+  <h5 class="card-title"><a href="#">Surat</a></h5>
+<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+</div>
+  </div>
+</div>
+</div>

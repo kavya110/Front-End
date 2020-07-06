@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="SignUpPageStyle.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="jquery.passwordstrength.js"></script>
+    <link rel="icon" type="image/png" sizes="32x32" href="favimage/favicon-32x32.png">
+  </head>
+  <body>
+    <div class="first half">
+      <h2>Sign Up For Free!</h2>
+      <p class="para">Join with us for a hassle free travel experience </p>
+        <p class="LogIn Page">
+          Already have an account?<a href="C:\Users\kavya\Desktop\mini_project\LogInPage\LogInPage.html" target="_blank"> Log In</a>
+          </p>
+          <div class="second half">
+            <form>
+              <label for="firstName">First Name:</label><br />
+              <span><i class="fa fa-user-o"></i></span>
+              <input type="text" name="firstName" placeholder="Your First Name"  /><br />
+              <label for="lastName">Last Name:</label></br>
+                <input type="text" name="lastName" placeholder="Your Last Name"/><br />
+                <label for="emailId">Mail ID:</label><br />
+                  <input type="email" name="emailId" placeholder="Your mail ID"  /><br />
+              <label for="Upassword">Password:</label><br />
+              <input type="password" id="Upassword" name="Upassword" placeholder="Your Password" /><br />
+              <input type="submit" value="Register"></button>
+            </form>
+          </div>
+
+    </div>
+              <script type="text/javascript">
+                  $(function() {
+                      $("#Upassword").passwordStrength();
+                  });
+              </script>
+      </body>
+</html>
